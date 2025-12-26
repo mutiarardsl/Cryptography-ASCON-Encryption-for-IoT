@@ -319,10 +319,6 @@ project-akhir-kriptografi/
 │   ├── attack_simulator.py         # Security testing tool
 │   ├── attack_monitor.py           # Real-time threat detection
 │   └── energy_analyzer.py          # Power consumption tracker
-│
-├── docs/
-│   └── Laporan_Kelompok_5.pdf     # Full technical report (Bahasa)
-│
 └── README.md                       # This file
 ```
 
@@ -330,10 +326,8 @@ project-akhir-kriptografi/
 
 ## 👥 Contributors
 
-This project was developed as a final assignment for **Cryptography Course (Class A)** at **Universitas Brawijaya**.
-
-| Name | Student ID | Role |
-|------|------------|------|
+| Name | 
+|------|
 | **Cindy Zakya Andini** | 
 | **Afifah Chairunnisa Hariyawan** | 
 | **Antike Rahma Safira** | 
